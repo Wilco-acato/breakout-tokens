@@ -3415,7 +3415,7 @@
       "button": {
         "background-color": {
           "$type": "color",
-          "$value": "{basis.color.transparent}"
+          "$value": "{breakout}"
         },
         "border-color": {
           "$type": "color",
