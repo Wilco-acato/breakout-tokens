@@ -1,5 +1,10 @@
 {
-  "brand": {},
+  "brand": {
+    "breakout": {
+      "$type": "color",
+      "$value": "#50E3C2"
+    }
+  },
   "common": {
     "basis": {
       "text": {
